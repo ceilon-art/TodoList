@@ -34,7 +34,7 @@ const AddTodo: React.FC = () => {
         style={styles.button}
         onPress={handleCreateTodo}
       >
-        <Text style={styles.textButton}>Adicone um Todo</Text>
+        <Text style={styles.textButton}>Adicione um Todo</Text>
       </RectButton>       
     </View>
   );
